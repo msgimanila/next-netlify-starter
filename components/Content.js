@@ -36,4 +36,4 @@ function Content() {
   );
 }
 
-export default Chat;
+export default Content;
