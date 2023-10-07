@@ -1,6 +1,6 @@
 // Chat.js
 import React, { useState, useEffect } from 'react';
-import ImageRow from './ImageRow'; // Adjust the import path as needed
+ 
 function Content() {
   const images = [
   {
